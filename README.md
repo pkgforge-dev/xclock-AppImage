@@ -1,10 +1,10 @@
 <div align="center">
 
-# XCalc-AppImage 🐧
+# xclock-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/XCalc-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/XCalc-AppImage/releases/latest)
-[![CI Build Status](https://github.com/pkgforge-dev/XCalc-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/XCalc-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/XCalc-AppImage)](https://github.com/pkgforge-dev/XCalc-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/xclock-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/xclock-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/xclock-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/xclock-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/xclock-AppImage)](https://github.com/pkgforge-dev/xclock-AppImage/releases/latest)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Link4Electronics/XCalc-AppImage/refs/heads/main/AppDir/xcalc.png" width="128" />
@@ -13,7 +13,7 @@
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/XCalc-AppImage/releases/latest) | [Click here](https://cgit.freedesktop.org/xorg/app/xcalc) |
+| [Click here](https://github.com/pkgforge-dev/xclock-AppImage/releases/latest) | [Click here](https://gitlab.freedesktop.org/xorg/app/xclock) |
 
 </div>
 
