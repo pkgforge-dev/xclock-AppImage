@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=xclock
+GenericName=X clock
+Comment="analog / digital clock for X"
+Exec=xclock
+Icon=xclock
+Terminal=false
+Type=Application
+StartupWMClass=
+StartupNotify=true
+Keywords=clock;
+Categories=Utility;Clock;
