@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/xclock-AppImage)](https://github.com/pkgforge-dev/xclock-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Link4Electronics/xclock-AppImage/refs/heads/main/AppDir/xclock.png" width="128" />
+  <img src="https://raw.githubusercontent.com/pkgforge-dev/xclock-AppImage/refs/heads/main/AppDir/xclock.png" width="128" />
 </p>
 
 
