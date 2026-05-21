@@ -11,7 +11,7 @@ export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}
 export ALWAYS_SOFTWARE=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/xclock /usr/share/X11/app-defaults
+quick-sharun /usr/bin/xclock /usr/share/X11/app-defaults /usr/lib/libXaw*.so*
 
 # Additional changes can be done in between here
 
