@@ -6,7 +6,7 @@ ARCH=$(uname -m)
 
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
-pacman -Syu --noconfirm xorg-xcalc
+pacman -Syu --noconfirm xorg-xclock
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
