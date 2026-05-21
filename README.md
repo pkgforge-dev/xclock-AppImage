@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/XCalc-AppImage)](https://github.com/pkgforge-dev/XCalc-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://raw.githubusercontent.com/Link4Electronics/XCalc-AppImage/refs/heads/main/AppDir/xcalc.png" width="128" />
 </p>
 
 
