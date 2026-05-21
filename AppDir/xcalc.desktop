@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=XCalc
+GenericName=Scientific Calculator
+Comment="Scientific calculator for X"
+Exec=xcalc
+Icon=accessories-calculator
+Terminal=false
+Type=Application
+StartupWMClass=
+StartupNotify=true
+Keywords=calculator;scientific;
+Categories=Utility;Calculator;
